@@ -1,0 +1,137 @@
+[
+    {
+        "extension_name": "Live Server",
+        "extension_desc": " Launches a local development server with a live reload feature, so you can see your changes in real time.",
+        "extension_link": "https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer"
+    },
+    {
+        "extension_name": "Prettier",
+        "extension_desc": "Automatically formats your code according to a set of predefined rules, making your code more readable and consistent.",
+        "extension_link": "https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode"
+    },
+    {
+        "extension_name": "Sass/Scss Intellisense",
+        "extension_desc": "Provides IntelliSense support for Sass, making it easier to write Sass code.",
+        "extension_link": "https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss"
+    },
+    {
+        "extension_name": "TODO Highlight",
+        "extension_desc": " Highlights TODO comments in your code, so you can easily find and track TODO items.",
+        "extension_link": "https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight"
+    },
+    {
+        "extension_name": "Auto Rename Tag",
+        "extension_desc": "Automatically renames HTML tags when you rename the corresponding elements in your code.",
+        "extension_link": "https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag"
+    },
+    {
+        "extension_name": "Beautify",
+        "extension_desc": "Formats your code according to a set of predefined rules, making your code more readable and consistent",
+        "extension_link": "https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify"
+    },
+    {
+        "extension_name": "Code Spell Checker",
+        "extension_desc": "Checks your code for spelling errors, helping you to catch errors and potential problems in your code.",
+        "extension_link": "https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker"
+    },
+    {
+        "extension_name": "ESLint",
+        "extension_desc": " Provides linting support for JavaScript files, helping you to catch errors and potential problems in your code.",
+        "extension_link": "https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint"
+    },
+    {
+        "extension_name": "TSLint",
+        "extension_desc": "Provides linting support for TypeScript files, helping you to catch errors and potential problems in your code.",
+        "extension_link": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin"
+    },
+    {
+        "extension_name": "Visual Studio IntelliCode",
+        "extension_desc": "Provides AI-assisted IntelliSense suggestions for a variety of programming languages, making it easier to write code",
+        "extension_link": "https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode"
+    },
+    {
+        "extension_name": "Icon fonts",
+        "extension_desc": "Adds a library of icon fonts to VS Code, making it easier to add icons to your code.",
+        "extension_link": "https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts"
+    },
+    {
+        "extension_name": "Path Intellisense",
+        "extension_desc": "Provides IntelliSense support for file paths, making it easier to write code that references files.",
+        "extension_link": "https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense"
+    },
+    {
+        "extension_name": "GitHub Graph",
+        "extension_desc": "Provides a graphical representation of your GitHub activity, such as your commits, pull requests, and issues.",
+        "extension_link": "https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph"
+    },
+    {
+        "extension_name": "GitHub Pull Requests",
+        "extension_desc": "This extension allows you to view, manage, and interact with GitHub pull requests directly from VS Code.",
+        "extension_link": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
+    },
+    {
+        "extension_name": "ES7+ React/Redux/React-Native",
+        "extension_desc": "This extension provides support for ES7+ features, React, Redux, and React Native.",
+        "extension_link": "https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets"
+    },
+    {
+        "extension_name": "Markdown Preview Enhanced",
+        "extension_desc": " This extension provides a more powerful and customizable Markdown preview experience.",
+        "extension_link": "https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced"
+    },
+    {
+        "extension_name": "Codeium",
+        "extension_desc": "The modern coding superpower: free AI code acceleration plugin for your favorite languages. Type less. Code more. Ship faster.",
+        "extension_link": "https://marketplace.visualstudio.com/items?itemName=Codeium.codeium"
+    },
+    {
+        "extension_name": "React JS Code Snippets",
+        "extension_desc": "This extension provides a collection of code snippets for ReactJS, making it easier to write ReactJS code.",
+        "extension_link": "https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets"
+    },
+    {
+        "extension_name": "React Native Tools",
+        "extension_desc": "This extension provides a variety of features for working with React Native, such as a debugger, a simulator, and a code editor.",
+        "extension_link": "https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native"
+    },
+    {
+        "extension_name": "Redux dev tools",
+        "extension_desc": "This extension provides a debugging tool for Redux applications, making it easier to find and fix bugs in your code.",
+        "extension_link": "https://marketplace.visualstudio.com/items?itemName=jingkaizhao.vscode-redux-devtools"
+    },
+    {
+        "extension_name": "Next.js Snippets",
+        "extension_desc": "This extension provides a collection of code snippets for Next.js, making it easier to write Next.js code.",
+        "extension_link": "https://marketplace.visualstudio.com/items?itemName=PulkitGangwar.nextjs-snippets"
+    },
+    {
+        "extension_name": "Tailwind CSS IntelliSense",
+        "extension_desc": "This extension provides IntelliSense support for Tailwind CSS, making it easier to write Tailwind CSS code.",
+        "extension_link": "https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss"
+    },
+    {
+        "extension_name": "Styled Components IntelliSense",
+        "extension_desc": "This extension provides IntelliSense support for Styled Components, making it easier to write Styled Components code.",
+        "extension_link": "https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-styled-components#:~:text=The%20styled%2Dcomponents%20extension%20adds,linter%20and%20other%20language%20features."
+    },
+    {
+        "extension_name": "JS-CSS-HTML Formatter",
+        "extension_desc": "This extension automatically formats your JS,CSS and HTML Formatter code according to a set of predefined rules, making your JS,CSS and HTML more readable and consistent.",
+        "extension_link": "https://marketplace.visualstudio.com/items?itemName=lonefy.vscode-JS-CSS-HTML-formatter"
+    },
+    {
+        "extension_name": "CSSTree Validator",
+        "extension_desc": "This extension validates your CSS code against the CSS syntax rules, making it easier to find and fix errors in your CSS.",
+        "extension_link": "https://marketplace.visualstudio.com/items?itemName=smelukov.vscode-csstree"
+    },
+    {
+        "extension_name": "Color Highlight",
+        "extension_desc": "This extension highlights the different colors in your CSS code, making it easier to find and understand the different parts of your CSS.",
+        "extension_link": "https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight"
+    },
+    {
+        "extension_name": "Debugger for Chrome",
+        "extension_desc": "Allows you to debug your code in Chrome, making it easier to find and fix bugs in your code.",
+        "extension_link": "https://code.visualstudio.com/blogs/2016/02/23/introducing-chrome-debugger-for-vs-code"
+    }
+]
