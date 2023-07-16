@@ -1,0 +1,32 @@
+[
+    {
+        "code_editor" : "Visual Studio Code",
+        "editor_logo" : "/assets/code_editors/vsCode.svg",
+        "editor_desc" : "Visual Studio Code is a free and open-source code editor developed by Microsoft. It is a lightweight editor that is fast and easy to use. It has a wide range of features, including syntax highlighting, code completion, and debugging. Visual Studio Code is a good choice for beginners and experienced developers alike.",
+        "editor_download" : "https://code.visualstudio.com/"
+    },
+    {
+        "code_editor" : "Sublime",
+        "editor_logo" : "/assets/code_editors/sublime.svg",
+        "editor_desc" : "Sublime Text is a commercial code editor that is known for its speed and flexibility. It has a wide range of features, including syntax highlighting, code completion, and a powerful search function. Sublime Text is a good choice for developers who want a powerful and customizable editor.",
+        "editor_download" : "https://www.sublimetext.com/"
+    },
+    {
+        "code_editor" : "Atom",
+        "editor_logo" : "/assets/code_editors/Atom.svg",
+        "editor_desc" : "Atom is a free and open-source code editor that is based on Electron. It is a lightweight editor that is fast and easy to use. It has a wide range of features, including syntax highlighting, code completion, and a package manager. Atom is a good choice for beginners and experienced developers alike.",
+        "editor_download" : "https://github.blog/2022-06-08-sunsetting-atom/"
+    },
+    {
+        "code_editor" : "IntelliJ IDEA",
+        "editor_logo" : "/assets/code_editors/IntelliJ.svg",
+        "editor_desc" : "IntelliJ IDEA is a commercial integrated development environment (IDE) developed by JetBrains. It is a powerful IDE that is designed for Java development. It has a wide range of features, including syntax highlighting, code completion, debugging, and a code refactoring tool. IntelliJ IDEA is a good choice for Java developers who need a powerful IDE.",
+        "editor_download" : "https://www.jetbrains.com/idea/"
+    },
+    {
+        "code_editor" : "PyCharm",
+        "editor_logo" : "/assets/code_editors/PyCharm.svg",
+        "editor_desc" : "PyCharm is a commercial IDE developed by JetBrains. It is a powerful IDE that is designed for Python development. It has a wide range of features, including syntax highlighting, code completion, debugging, and a code refactoring tool. PyCharm is a good choice for Python developers who need a powerful IDE",
+        "editor_download" : "https://www.jetbrains.com/pycharm/download/?section=windows"
+    }
+]

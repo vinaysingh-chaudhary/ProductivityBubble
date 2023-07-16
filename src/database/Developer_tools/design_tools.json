@@ -1,0 +1,30 @@
+[
+    {
+        "design_tool": "Figma",
+        "tool_desc" : "Figma is a web-based design tool that is known for its collaboration features. It is easy to share designs with others and get feedback, which makes it a great choice for teams. Figma also has a wide range of features, including vector drawing, prototyping, and animation.",
+        "tool_icon" : "/assets/design_tools/figma.svg",
+        "tool_link" : "https://www.figma.com/",
+        "tool_download" : "https://www.figma.com/downloads/" 
+    },
+    {
+        "design_tool": "Webflow",
+        "tool_desc" : "Webflow is a design tool that allows you to create fully-functioning websites without writing any code. It is a good choice for designers who want to have more control over the look and feel of their websites. Webflow also has a large community of users and developers, which means that there are plenty of resources available to help you learn how to use it.",
+        "tool_icon" : "/assets/design_tools/webflow.svg",
+        "tool_link" : "https://webflow.com/",
+        "tool_download" : null 
+    },
+    {
+        "design_tool": "Framer",
+        "tool_desc" : "Framer is a design tool that is focused on prototyping. It allows you to create interactive prototypes that can be used to test user flows and interactions. Framer is a good choice for designers who want to create prototypes that are as realistic as possible.",
+        "tool_icon" : "/assets/design_tools/framer.svg",
+        "tool_link" : "https://www.framer.com/",
+        "tool_download" : "https://www.framer.com/downloads/" 
+    },
+    {
+        "design_tool": "Adobe XD",
+        "tool_desc" : "Adobe XD is a design tool from Adobe that is similar to Figma. It has a wide range of features, including vector drawing, prototyping, and animation. Adobe XD is a good choice for designers who are already familiar with other Adobe products.",
+        "tool_icon" : "/assets/design_tools/AdobeXD.svg",
+        "tool_link" : "https://www.adobe.com/products/xd/learn/get-started-xd-design.html",
+        "tool_download" : null
+    }
+]

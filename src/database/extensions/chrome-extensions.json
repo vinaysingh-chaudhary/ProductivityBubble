@@ -1,0 +1,62 @@
+[
+    {
+        "chrome_extension" : "CSS Peeper",
+        "extension_desc" : "CSS Peeper is a free online tool that helps you analyze and debug CSS code. It can be used to view the properties of any CSS element on a web page, as well as to identify errors in your CSS code.",
+        "extension_link" : "https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk"
+    },
+    {
+        "chrome_extension" : "Emmet",
+        "extension_desc" : "Emmet is a keyboard shortcut plugin that helps you write HTML and CSS code more quickly. It can be used to generate code snippets, as well as to complete incomplete code blocks.",
+        "extension_link" : "https://chrome.google.com/webstore/detail/emmet-review/epejoicbhllgiimigokgjdoijnpaphdp"
+    },
+    {
+        "chrome_extension" : "Wappalyzer",
+        "extension_desc" : "Wappalyzer is a tool that helps you identify the technologies used on a web page. It can be used to see what frameworks, libraries, and plugins are being used, as well as to get information about the web server and hosting provider.",
+        "extension_link" : "https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg"
+    },
+    {
+        "chrome_extension" : "Hot Reload",
+        "extension_desc" : "Hot Reload is a tool that helps you develop applications without having to reload the page. It can be used to make changes to your code and see the results immediately.",
+        "extension_link" : "https://chrome.google.com/webstore/detail/advanced-extension-reload/hagknokdofkmojolcpbddjfdjhnjdkae"
+    },
+    {
+        "chrome_extension" : "React Developer Tools",
+        "extension_desc" : "React Developer Tools is a Chrome extension that helps you debug React applications. It provides a number of features, such as a component hierarchy view, a state inspector, and a debugger.",
+        "extension_link" : "https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi"
+    },
+    {
+        "chrome_extension" : "Redux DevTools",
+        "extension_desc" : "Redux DevTools is a Chrome extension that helps you debug Redux applications. It provides a number of features, such as a state inspector, a debugger, and a time travel debugger.",
+        "extension_link" : "https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd"
+    },
+    {
+        "chrome_extension" : "GitHub Developer Tools",
+        "extension_desc" : "GitHub Developer Tools is a Chrome extension that helps you debug GitHub repositories. It provides a number of features, such as a code editor, a debugger, and a network inspector.",
+        "extension_link" : "https://github.com/ChromeDevTools"
+    },
+    {
+        "chrome_extension" : "JSONView",
+        "extension_desc" : "JSONView is a web-based tool that helps you view and edit JSON data. It provides syntax highlighting, autocompletion, and a live preview of your JSON data.",
+        "extension_link" : "https://chrome.google.com/webstore/detail/jsonview/gmegofmjomhknnokphhckolhcffdaihd"
+    },
+    {
+        "chrome_extension" : "Postman",
+        "extension_desc" : "Postman is a tool that helps you test APIs. It can be used to send and receive requests, as well as to view the response data.",
+        "extension_link" : "https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop"
+    },
+    {
+        "chrome_extension" : "Octotree",
+        "extension_desc" : "Displays a tree view of your GitHub repositories, making it easier to find and work with your code on GitHub.",
+        "extension_link" : "https://chrome.google.com/webstore/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc"
+    },
+    {
+        "chrome_extension" : "Simple Allow Copy",
+        "extension_desc" : "Simple Allow Copy is a Chrome extension that allows you to copy text from websites that have disabled copying.",
+        "extension_link" : "https://chrome.google.com/webstore/detail/simple-allow-copy/aefehdhdciieocakfobpaaolhipkcpgc"
+    },
+    {
+        "chrome_extension" : "AdGuard AdBlocker",
+        "extension_desc" : "AdGuard AdBlocker is a free and open-source ad blocker. It can be used to block ads on websites, as well as to block trackers and malware.",
+        "extension_link" : "https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg"
+    }
+]

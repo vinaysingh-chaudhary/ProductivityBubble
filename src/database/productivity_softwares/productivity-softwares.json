@@ -2,8 +2,7 @@
     {
         "software_name": "Notion",
         "software_desc": "Notion is a collaborative workspace that combines a wiki, a task manager, and a document editor.Notion allows users to create and organize their work in a variety of ways, making it a versatile tool for individuals and teams.",
-        "icon": "",
-        "thumbnail" : "",
+        "icon": "/assets/images/notion.svg",
         "color": "#000000",
         "home_page": "https://www.notion.so/",
         "download_desktop": "https://www.notion.so/desktop",
@@ -13,8 +12,7 @@
     {
         "software_name": "Asana",
         "software_desc": "Asana is a collaborative project management tool that helps teams track their work, collaborate in real time, and communicate effectively. It is used by teams of all sizes, from small businesses to large enterprises.",
-        "icon": "",
-        "thumbnail" : "",
+        "icon": "/assets/images/asana.svg",
         "color": "#F06A6A",
         "home_page": "https://asana.com/",
         "download_desktop": "https://asana.com/download",
@@ -24,8 +22,7 @@
     {
         "software_name": "Trello",
         "software_desc": "Trello is a web-based application that uses boards, lists, and cards to organize work. Boards represent projects, lists represent tasks, and cards represent individual tasks.",
-        "icon": "",
-        "thumbnail" : "",
+        "icon": "/assets/images/trello.svg",
         "color": "#0084D1",
         "home_page": "https://trello.com/",
         "download_desktop": "https://trello.com/platforms",
@@ -35,8 +32,7 @@
     {
         "software_name": "Google Keep",
         "software_desc": "Google Keep is a free, web-based application that allows users to create notes, lists, and drawings. Notes can be organized into notebooks, and can be shared with others. Google Keep is a popular tool for individuals and teams, and can be accessed from any device.",
-        "icon": "",
-        "thumbnail" : "",
+        "icon": "/assets/images/google-keep.svg",
         "color": "#0084D1",
         "home_page": "https://keep.google.com/",
         "download_desktop": "https://keep.google.com/",
@@ -46,8 +42,7 @@
     {
         "software_name": "Evernotes",
         "software_desc": "Evernotes is a web-based application that allows users to create and share whiteboards. Whiteboards can be used to brainstorm, sketch, and share ideas. Evernotes is a popular tool for teams of all sizes, from small businesses to large enterprises.",
-        "icon": "",
-        "thumbnail" : "",
+        "icon": "/assets/images/evernote.svg",
         "color": "#0084D1",
         "home_page": "https://evernote.com/",
         "download_desktop": "https://evernote.com/download",
@@ -57,8 +52,7 @@
     {
         "software_name": "Todoist",
         "software_desc": "Todoist is a web-based application that allows users to create and manage tasks. Tasks can be organized into projects, and can be assigned due dates and priorities. Todoist is a popular tool for individuals and teams, and can be accessed from any device.",
-        "icon": "",
-        "thumbnail" : "",
+        "icon": "/assets/images/todoist.svg",
         "color": "#d34035",
         "home_page": "https://todoist.com/",
         "download_desktop": "https://todoist.com/downloads",
