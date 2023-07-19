@@ -1,50 +1,50 @@
 [
     {
-        "developer_tool" : "GitHub",
-        "tool_desc" : "GitHub is a code hosting platform for version control and collaboration. It is a popular tool for software development, and it is used by millions of developers around the world.",
-        "tool_icon" : "/assets/developer_tools/github.svg",
-        "tool_link" : "https://github.com/"
+        "tool" : "GitHub",
+        "desc" : "GitHub is a code hosting platform for version control and collaboration. It is a popular tool for software development, and it is used by millions of developers around the world.",
+        "logo" : "/assets/developer_tools/github.svg",
+        "link" : "https://github.com/"
     },
     {
-        "developer_tool" : "GitLab",
-        "tool_desc" : "GitLab is a similar tool to GitHub, but it is self-hosted. This means that you can run GitLab on your own server, giving you more control over your code. GitLab is also open source, which means that it is free to use and modify.",
-        "tool_icon" : "/assets/developer_tools/gitlab.svg",
-        "tool_link" : "https://about.gitlab.com/"
+        "tool" : "GitLab",
+        "desc" : "GitLab is a similar tool to GitHub, but it is self-hosted. This means that you can run GitLab on your own server, giving you more control over your code. GitLab is also open source, which means that it is free to use and modify.",
+        "logo" : "/assets/developer_tools/gitlab.svg",
+        "link" : "https://about.gitlab.com/"
     },
     {
-        "developer_tool" : "Replit",
-        "tool_desc" : "Replit is a cloud-based IDE that allows you to code in a variety of languages. It is a great tool for learning to code, and it is also used by professional developers. Replit provides a number of features, such as a code editor, a debugger, and a terminal.",
-        "tool_icon" : "/assets/developer_tools/replit.svg",
-        "tool_link" : "https://replit.com/"
+        "tool" : "Replit",
+        "desc" : "Replit is a cloud-based IDE that allows you to code in a variety of languages. It is a great tool for learning to code, and it is also used by professional developers. Replit provides a number of features, such as a code editor, a debugger, and a terminal.",
+        "logo" : "/assets/developer_tools/replit.svg",
+        "link" : "https://replit.com/"
     },
     {
-        "developer_tool" : "Stack Overflow",
-        "tool_desc" : "Stack Overflow is a question-and-answer website for programmers. It is a great resource for finding answers to your coding questions. Stack Overflow has a large community of users, and there are answers to almost every coding question imaginable.",
-        "tool_icon" : "/assets/developer_tools/stackoverflow.svg",
-        "tool_link" : "https://stackoverflow.com/"
+        "tool" : "Stack Overflow",
+        "desc" : "Stack Overflow is a question-and-answer website for programmers. It is a great resource for finding answers to your coding questions. Stack Overflow has a large community of users, and there are answers to almost every coding question imaginable.",
+        "logo" : "/assets/developer_tools/stackoverflow.svg",
+        "link" : "https://stackoverflow.com/"
     },
     {
-        "developer_tool" : "CodePen",
-        "tool_desc" : "CodePen is a website where you can create and share code snippets. It is a great way to show off your coding skills, and it is also a great way to learn from others. CodePen provides a number of features, such as a code editor, a debugger, and a live preview.",
-        "tool_icon" : "/assets/developer_tools/codepen.svg",
-        "tool_link" : "https://codepen.io/"
+        "tool" : "CodePen",
+        "desc" : "CodePen is a website where you can create and share code snippets. It is a great way to show off your coding skills, and it is also a great way to learn from others. CodePen provides a number of features, such as a code editor, a debugger, and a live preview.",
+        "logo" : "/assets/developer_tools/codepen.svg",
+        "link" : "https://codepen.io/"
     },
     {
-        "developer_tool" : "ChatGPT",
-        "tool_desc" : "ChatGPT is a large language model chatbot developed by OpenAI. It is a powerful tool that can be used for a variety of purposes, such as generating text, translating languages, and writing different kinds of creative content.",
-        "tool_icon" : "/assets/developer_tools/ChatGPT.svg",
-        "tool_link" : "https://chat.openai.com/"
+        "tool" : "ChatGPT",
+        "desc" : "ChatGPT is a large language model chatbot developed by OpenAI. It is a powerful tool that can be used for a variety of purposes, such as generating text, translating languages, and writing different kinds of creative content.",
+        "logo" : "/assets/developer_tools/ChatGPT.svg",
+        "link" : "https://chat.openai.com/"
     },
     {
-        "developer_tool" : "Bard",
-        "tool_desc" : "Bard is a large language model chatbot developed by Google AI. It is similar to ChatGPT, but it is trained on a different dataset of text and code. Bard can also be used for a variety of purposes, such as generating text, translating languages, and writing different kinds of creative content.",
-        "tool_icon" : "/assets/developer_tools/bard.svg",
-        "tool_link" : "https://bard.google.com/"
+        "tool" : "Bard",
+        "desc" : "Bard is a large language model chatbot developed by Google AI. It is similar to ChatGPT, but it is trained on a different dataset of text and code. Bard can also be used for a variety of purposes, such as generating text, translating languages, and writing different kinds of creative content.",
+        "logo" : "/assets/developer_tools/bard.svg",
+        "link" : "https://bard.google.com/"
     },
     {
-        "developer_tool" : "Phind.com",
-        "tool_desc" : "Phind is a search engine that simply tells users what the answer is. Optimized for developers and technical questions, Phind instantly answers questions with detailed explanations and relevant code snippets from the web.",
-        "tool_icon" : "/assets/developer_tools/phind.svg",
-        "tool_link" : "https://www.phind.com/"
+        "tool" : "Phind.com",
+        "desc" : "Phind is a search engine that simply tells users what the answer is. Optimized for developers and technical questions, Phind instantly answers questions with detailed explanations and relevant code snippets from the web.",
+        "logo" : "/assets/developer_tools/phind.svg",
+        "link" : "https://www.phind.com/"
     }
 ]
