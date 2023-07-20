@@ -8,7 +8,7 @@ const ExtensionPage =() => {
       
       <div className='w-[100%] flex flex-col items-center justify-center gap-3'>
         <p className='text-[2rem]'>Chrome Extensions</p>
-        <div className='flex flex-col justify-evenly gap-4 items-center overflow-y-scroll pb-3'>
+        <div className='flex flex-col justify-evenly gap-4 items-center pb-3'>
         {
         ExtensionData.map((item, index) => {
           return <DevCards key={index} tool={item.chrome_extension} logo={item.logo} link={item.extension_link} desc={item.extension_desc}/>
